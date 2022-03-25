@@ -5,7 +5,7 @@ check=$((RANDOM%2))
 
 if (( $present == $check ))
 then
-echo "Employee is Present";
+echo "Employee  Present";
 else
-echo "employee is Absent ";
+echo "employee  Absent ";
 fi
